@@ -9,3 +9,6 @@
 ## Joan Clarke
 
 ## Grace Murray
+
+## Licencia
+![image](https://user-images.githubusercontent.com/114906861/194564825-77380b65-ee12-4fff-8dbe-fbe2466b4889.png)
