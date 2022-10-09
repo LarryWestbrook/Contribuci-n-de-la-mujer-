@@ -10,7 +10,7 @@
 
 ## Joan Clarke
 
--[Hechos relevantes]
+- [Hechos relevantes]
 
 ## Grace Murray
 - [Hechos Relevantes]
