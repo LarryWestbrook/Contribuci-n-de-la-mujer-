@@ -5,7 +5,7 @@
 - [Hechos Relevantes](hedylamar/hedylamar.md)
   
 ## Radia Joy Perlman
-Es una creadora de software e ingeniera de redes, experta en seguridad, más conocida como la Madre de Internet. Se gradúo en Matemáticas en el intituto de tecnología de Massachusettsdonde se desarrollaron dus dotes para la programación.
+Es una creadora de software e ingeniera de redes, experta en seguridad, más conocida como la Madre de Internet. Se gradúo en Matemáticas en el Intituto de Tecnología de Massachusetts donde se desarrollaron sus dotes para la programación.
 - [Hechos Relevantes]
 
 ## Joan Clarke
