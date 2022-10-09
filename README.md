@@ -10,13 +10,13 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 
 ## Joan Clarke
 
-- [Hechos relevantes]
+- [Hechos relevantes](joanclarke/joanclarke.md)
 
 ## Grace Murray
-- [Hechos Relevantes]
+- [Hechos Relevantes](gracemurray/gracemurray.md)
 
 ## Nuria Maria Oliver
-- [Hechos Relevantes]
+- [Hechos Relevantes](nuriamaria/nuriamaria.md)
 
 
 ## `Conclusión`
