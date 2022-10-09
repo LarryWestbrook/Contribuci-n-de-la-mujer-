@@ -18,7 +18,7 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 - [Hechos Relevantes](gracemurray/gracemurray.md)
 
 ## Nuria Maria Oliver
-
+Es una ingeniera en telecomunicaciones española, que es conocida por su trabajo en los modelos computacionales del comportamiento humano y la inteligencia artificial.
 - [Hechos Relevantes](nuriamaria/nuriamaria.md)
 
 
