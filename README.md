@@ -14,7 +14,7 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 - [Hechos relevantes](joanclarke/joanclarke.md)
 
 ## Grace Murray
- Fue una científica de la computación y pionera en el mundo de las ciencias de la computación, y la primera programadora que utilizó el Mark I. Que fue el priimer ordenador electromecánico que creo IBM.
+ Fue una científica de la computación y pionera en el mundo de las ciencias de la computación, y la primera programadora que utilizó el Mark I. Que fue el primer ordenador electromecánico que creo IBM.
 - [Hechos Relevantes](gracemurray/gracemurray.md)
 
 ## Nuria Maria Oliver
