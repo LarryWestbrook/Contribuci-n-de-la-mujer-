@@ -1,5 +1,5 @@
 # `Contribución de la mujer`
-A lo largo de la historia han habido mujeres brillantes, que han contribuido a la investigacion de nuevas tecnologías y al desarrollo de estas.  
+A lo largo de la historia han habido mujeres brillantes, que han contribuido a la investigacion de nuevas tecnologías y al desarrollo de estas. Muchas de ellas fueron fundamentales en el estudio de la computacion y de las redes de hoy en día.
 
 ## Hedy Lamar
   Fue una actriz de cine e inventora que colaboró junto a George Antheil, en la primera versión del espectro ensanchado que permitiría las comunicaciones inalámbricas de largas distancias (WIFI).
@@ -10,11 +10,11 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 - [Hechos Relevantes](radiaperlman/radiaperlman.md)
 
 ## Joan Clarke
-
+ Fue una criptoanalista y numismática británica que trabajó en Bletchley Park durante la Segunda Guerra Mundial, donde trabajó y ayudo descifrando Enigma.
 - [Hechos relevantes](joanclarke/joanclarke.md)
 
 ## Grace Murray
-
+ Fue una científica de la computación y pionera en el mundo de las ciencias de la computación, y la primera programadora que utilizó el Mark I. Que fue el priimer ordenador electromecánico que creo IBM.
 - [Hechos Relevantes](gracemurray/gracemurray.md)
 
 ## Nuria Maria Oliver
