@@ -8,7 +8,8 @@ A lo largo de la historia han habido mujeres brillantes, que han contribuido a l
 - [Hechos Relevantes](hedylamar/hedylamar.md)
   
 ## Radia Joy Perlman
-![image]![radia joy ](https://user-images.githubusercontent.com/114906861/194811213-3e79ba29-0a49-41a3-9915-8c6589403a2e.jpg)
+![image](https://user-images.githubusercontent.com/114906861/194811213-3e79ba29-0a49-41a3-9915-8c6589403a2e.jpg)
+
 Es una creadora de software e ingeniera de redes, experta en seguridad, más conocida como la Madre de Internet. Se gradúo en Matemáticas en el Intituto de Tecnología de Massachusetts donde se desarrollaron sus dotes para la programación.
 - [Hechos Relevantes](radiaperlman/radiaperlman.md)
 
