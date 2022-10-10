@@ -14,6 +14,8 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 - [Hechos Relevantes](radiaperlman/radiaperlman.md)
 
 ## Joan Clarke
+![image](https://user-images.githubusercontent.com/114906861/194811730-691b19c3-fedc-405d-aac1-71ba68bcd288.jpg)
+
  Fue una criptoanalista y numismática británica que trabajó en Bletchley Park durante la Segunda Guerra Mundial, donde trabajó y ayudo descifrando Enigma.
 - [Hechos relevantes](joanclarke/joanclarke.md)
 
