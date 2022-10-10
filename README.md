@@ -1,4 +1,4 @@
-# `Contribución de la mujer`
+# `Contribución de la mujer a la Computación`
 A lo largo de la historia han habido mujeres brillantes, que han contribuido a la investigacion de nuevas tecnologías y al desarrollo de estas. Muchas de ellas fueron fundamentales en el estudio de la computacion y de las redes de hoy en día.
 
 ## Hedy Lamar
