@@ -1,1 +1,2 @@
-
+En la Segunda Guerra Mundial Hedy Lamar y el compositor George Antheil desarrollaron un sistema de guia por radio para torpedos aliados que utilizaba el espectro ensanchado y la tecnologia de saltos de frecuencias para vencer las amenazas de interferencias por parte de los Nazis. Los EEUU no utilizaron esta tecnologia hasta los años 60, fueron los primeros pasos hasta llegar a la tecnoloía bluetooth y ya mas tarde se convertirían en lo que hoy conocemos por WIFI. 
+Esto no fue lo único que invento o de que formo parte Hedy Lamar también desarrollo un sistema de semáforo mejorado y una tableta que se disolveria en agua y convertía esta en agua carbonatada pero no tuvo mucho éxito.
