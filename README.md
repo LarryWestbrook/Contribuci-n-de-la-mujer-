@@ -20,10 +20,14 @@ Es una creadora de software e ingeniera de redes, experta en seguridad, más con
 - [Hechos relevantes](joanclarke/joanclarke.md)
 
 ## Grace Murray
+![image](https://user-images.githubusercontent.com/114906861/194811942-2dceb28c-b223-49be-b396-ec865216d382.jpg)
+
  Fue una científica de la computación y pionera en el mundo de las ciencias de la computación, y la primera programadora que utilizó el Mark I. Que fue el primer ordenador electromecánico que creo IBM.
 - [Hechos Relevantes](gracemurray/gracemurray.md)
 
 ## Nuria Maria Oliver
+![image](https://user-images.githubusercontent.com/114906861/194812049-b1b47bfd-988a-4b65-bff7-106d7ad731b7.png)
+
 Es una ingeniera en telecomunicaciones española, que es conocida por su trabajo en los modelos computacionales del comportamiento humano y la inteligencia artificial.
 - [Hechos Relevantes](nuriamaria/nuriamaria.md)
 
