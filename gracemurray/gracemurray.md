@@ -1,1 +1,1 @@
-
+Grace Murray fue la mujer que popularizó la idea de los lenguajes de programación independientes de la máquina, lo que derivó en el desarrollo de COBOL, un lenguaje de alto nivel de programación que aún se utiliza. 
